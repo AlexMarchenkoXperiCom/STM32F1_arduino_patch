@@ -31,4 +31,4 @@ Installation:
 
 
 Example:
-   Code example shows the work with 128x32 OLED (SED1306 based) connected to the second TWI port (PB8, PB9).
+   - Code example shows the work with 128x32 OLED (SED1306 based) connected to the primary redirected TWI port (PB8, PB9).

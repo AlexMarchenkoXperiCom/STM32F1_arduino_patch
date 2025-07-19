@@ -33,5 +33,6 @@ Installation:
 Example:
    - Code example shows the work with 128x32 OLED (SED1306 based) connected to the primary redirected TWI port (PB8, PB9).
 
-TODO:
-    - Secondary TWI still not works (SDA2/SCL2).
+
+Known issues:
+   - Secondary TWI still not works (SDA2/SCL2), use SW implementation instead.
